@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🗿 About Me:
 Computer vision enthusiast<br>knows about python, c++, flutter, <br>i also do ui ux designing <br>
 
 
